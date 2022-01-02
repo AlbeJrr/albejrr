@@ -4,8 +4,9 @@
 <a href="https://github.com/AlbeJrr" target='_blank'>
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=AlbeJrr&show_icons=true" />
  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbeJrr&layout=compact" />
+ </a>
 </div>
-  
+
  ##
  
 <div class='display: inline_block'>
@@ -16,4 +17,5 @@
 <a href="https://twitter.com/albejrr" target='_blank' ><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a>  
 </div>
  
-![Snake Animation](https://github.com/AlbeJrr)
+![Snake animation](https://github.com/AlbeJrr/AlbeJrr/blob/output/github-contribution-grid-snake.svg)
+

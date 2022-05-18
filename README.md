@@ -1,4 +1,4 @@
-## ⚡️ Oi, eu sou o Albe! Programador e, nas horas vagas, streamer \o/
+## ⚡️ Oi, eu sou o Albe! Developer e, nas horas vagas, streamer \o/
 <br />
 <div style='display: flex'>
 <a href="https://github.com/AlbeJrr" target='_blank'>
